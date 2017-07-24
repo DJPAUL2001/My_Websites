@@ -1,0 +1,14 @@
+/*BACKGROUND COLOUR*/
+body {
+  background-image: url("Images/BlackBackground.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+    }
+
+
+
+
+
+
+/*Font Colour*/
+body {color: wheat}
